@@ -6,6 +6,10 @@ jobs:
   sync:
     name: Run EndBug/label-sync
     runs-on: ubuntu-20.04
+    permissions:
+        contents: write
+        pull-requests: write
+        repository-projects: writ
     steps:
       - uses: actions/checkout@v4
       - uses: EndBug/label-sync@v2
