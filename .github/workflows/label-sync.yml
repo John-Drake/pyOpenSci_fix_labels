@@ -9,7 +9,7 @@ jobs:
     permissions:
         contents: write
         pull-requests: write
-        repository-projects: writ
+        repository-projects: write
     steps:
       - uses: actions/checkout@v4
       - uses: EndBug/label-sync@v2
