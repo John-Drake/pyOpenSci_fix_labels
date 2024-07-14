@@ -1,0 +1,70 @@
+- name: 'beginner-friendly'
+  color: '#FBCA04'
+  description: ''
+  aliases: []
+
+- name: 'bug-bash'
+  color: '#B7BBFE'
+  description: ''
+  aliases: []
+
+- name: 'documentation'
+  color: '#0075CA'
+  description: 'Improvements or additions to documentation'
+  aliases: []
+
+- name: 'duplicate'
+  color: '#CFD3D7'
+  description: 'This issue or pull request already exists'
+  aliases: []
+
+- name: 'help wanted'
+  color: '#008672'
+  description: 'We welcome a contributor to work on this issue! thank you in advance!'
+  aliases: []
+
+- name: 'question'
+  color: '#D979E3'
+  description: 'Further information is requested'
+  aliases: []
+
+- name: 'ready-for-review'
+  color: '#2AE351'
+  description: ''
+  aliases: []
+
+- name: 'sprintable'
+  color: '#124F43'
+  description: ''
+  aliases: []
+
+- name: 'translations'
+  color: '#006B75'
+  description: 'Translation and localization of content'
+  aliases: []
+
+- name: 'bug'
+  color: '#D73A4A'
+  description: "Something isn't working"
+  aliases: []
+
+- name: 'enhancement'
+  color: '#A2EEEF'
+  description: 'New feature or request'
+  aliases: []
+
+- name: 'high-priority'
+  color: '#108B45'
+  description: ''
+  aliases: []
+
+- name: 'reviews-welcome'
+  color: '#91E2F2'
+  description: ''
+  aliases: []
+
+- name: 'DO-NOT-MERGE'
+  color: '#E99695'
+  description: 'A caution that a PR is not ready to be merged'
+  aliases: []
+
